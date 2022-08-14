@@ -1,0 +1,8 @@
+.colgroup{width:40%; max-width: 500px; overflow: hidden;}
+.board{width:60%;}
+.board_box{width:100%;}
+.board_box ul{width:32%; background:#ffffff; padding:2%; box-sizing: border-box;}
+.board_box ul.board_box2{margin:0 12px;}
+.board_box ul li{border: 1px solid transparent;}
+
+.rowgroup4 >div.fl{width:25%;}
